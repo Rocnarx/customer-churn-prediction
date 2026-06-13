@@ -91,6 +91,7 @@ Best model selected by ROC-AUC:
 
 ```text
 Logistic Regression
+```
 
 Logistic Regression achieved the highest ROC-AUC score. Although Random Forest had slightly higher accuracy and precision, Logistic Regression performed better at ranking churn risk overall and had higher recall, which is useful in churn detection because missing likely churners can be costly.
 
