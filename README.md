@@ -1,4 +1,4 @@
-# Customer Churn Prediction — Tabular Machine Learning Project
+# Customer Churn Prediction
 
 ## Overview
 
@@ -108,7 +108,7 @@ Generated artifacts:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/Rocnarx/customer-churn-prediction>
+git clone https://github.com/Rocnarx/customer-churn-prediction
 cd customer-churn-prediction
 ```
 
