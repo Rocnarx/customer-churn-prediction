@@ -174,22 +174,6 @@ customer-churn-prediction/
 └── requirements.txt
 ```
 
-## Limitations
-
-This project is intentionally simple and focused on a junior-level machine learning workflow.
-
-Main limitations:
-
-* The dataset is a sample dataset and may not represent a real production environment.
-* The train/test split is random, not time-based.
-* No hyperparameter tuning was performed.
-* No model calibration was performed.
-* No production deployment is included.
-* No monitoring, data drift detection, or automated retraining is included.
-* Business costs of false positives and false negatives were not optimized.
-
-## Next Steps
-
 Possible improvements:
 
 * Add cross-validation.
