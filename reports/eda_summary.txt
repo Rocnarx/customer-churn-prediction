@@ -1,0 +1,43 @@
+Customer Churn Prediction - EDA Summary
+=============================================
+
+Dataset shape: (7043, 21)
+
+Target distribution:
+Churn
+0    0.73463
+1    0.26537
+
+Missing values:
+TotalCharges        11
+gender               0
+SeniorCitizen        0
+Partner              0
+customerID           0
+Dependents           0
+tenure               0
+MultipleLines        0
+PhoneService         0
+OnlineSecurity       0
+OnlineBackup         0
+DeviceProtection     0
+InternetService      0
+TechSupport          0
+StreamingTV          0
+Contract             0
+StreamingMovies      0
+PaperlessBilling     0
+PaymentMethod        0
+MonthlyCharges       0
+Churn                0
+
+Numeric summary:
+       SeniorCitizen       tenure  MonthlyCharges  TotalCharges        Churn
+count    7043.000000  7043.000000     7043.000000   7032.000000  7043.000000
+mean        0.162147    32.371149       64.761692   2283.300441     0.265370
+std         0.368612    24.559481       30.090047   2266.771362     0.441561
+min         0.000000     0.000000       18.250000     18.800000     0.000000
+25%         0.000000     9.000000       35.500000    401.450000     0.000000
+50%         0.000000    29.000000       70.350000   1397.475000     0.000000
+75%         0.000000    55.000000       89.850000   3794.737500     1.000000
+max         1.000000    72.000000      118.750000   8684.800000     1.000000
