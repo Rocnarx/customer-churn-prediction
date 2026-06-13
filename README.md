@@ -4,7 +4,7 @@
 
 This project predicts customer churn using a tabular machine learning pipeline built with Python, pandas, and scikit-learn.
 
-The goal is to build a clean and reproducible junior-level machine learning project that covers the main steps of a real classification workflow: data loading, data cleaning, exploratory data analysis, preprocessing, model training, evaluation, feature importance, and model persistence.
+The goal is to build a clean and reproducible machine learning project that covers the main steps of a real classification workflow: data loading, data cleaning, exploratory data analysis, preprocessing, model training, evaluation, feature importance, and model persistence.
 
 ## Problem Statement
 
